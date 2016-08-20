@@ -1,0 +1,12 @@
+{
+    "name": "aluno/aula1",
+    "description": "Projeto para fins academicos",
+    "authors": [
+        {
+            "name": "Junior Abreu",
+            "email": "juniorcesarabreu@live.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
