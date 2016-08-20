@@ -1,7 +1,11 @@
+<?php
+  $variavel = "Hello World!"
+ ?>
+
+<!DOCTYPE html>
 <html>
-  <head>
-  </head>
-  <body>
-    Hello World!
-  </body>
+  <?php include "header.php"; ?>
+
+  <?php include "body.php"; ?>
+  
 </html>
